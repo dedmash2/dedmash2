@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dedmash2
-- 👀 I’m interested in web-development
-- 🌱 I’m currently learning js & react
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning c# & .NET
 - 📫 How to reach me: 
     1. email: spas.aleksander.v@gmail.com
     2. LinkedIn: https://www.linkedin.com/in/aleksander-spas/
